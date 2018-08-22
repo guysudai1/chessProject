@@ -1,0 +1,9 @@
+﻿  maincpp.cpp
+c:\users\guy\desktop\code\chess\project1\project1\maincpp.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\guy\desktop\code\chess\project1\project1\maincpp.cpp(255): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 94 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\GUY\Desktop\code\chess\Project1\Release\Project1.exe
